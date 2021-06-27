@@ -119,3 +119,5 @@ friends: [
         href: "https://wblearn.github.io/study-video"
     }
 ]
+
+theme: jekyll-theme-slate
